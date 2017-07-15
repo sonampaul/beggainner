@@ -1,0 +1,6 @@
+p=12
+t=6
+r=4
+c=p*t*r/100
+print c
+Success

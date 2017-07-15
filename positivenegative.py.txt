@@ -1,0 +1,5 @@
+n=int(inpu())
+if(n>0)
+print positive
+if(n<0)
+print negative
